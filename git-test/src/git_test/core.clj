@@ -1,6 +1,5 @@
 (ns git-test.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World AGAIN!"))
+;; I decided to make a shorter change
+(def hello
+  (println "This is a new Hello file for the git stuff"))
